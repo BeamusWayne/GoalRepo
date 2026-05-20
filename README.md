@@ -16,6 +16,11 @@ A multi-language developer toolbox. Small, useful CLI tools written in different
 | `ts/url-encode` | TypeScript | URL encode/decode utility |
 | `c/line-count` | C | Line/word/char counter |
 | `lua/json-key` | Lua | JSON key extractor |
+| `python/csv-look` | Python | CSV table viewer |
+| `shell/emoji-filter` | Shell | Emoji grep filter |
+| `elixir/base-convert` | Elixir | Number base converter |
+| `scala/str-reverse` | Scala | String reverser with transforms |
+| `perl/regex-test` | Perl | Regex pattern tester |
 
 ---
 

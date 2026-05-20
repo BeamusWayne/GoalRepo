@@ -21,6 +21,10 @@ A multi-language developer toolbox. Small, useful CLI tools written in different
 | `elixir/base-convert` | Elixir | Number base converter |
 | `scala/str-reverse` | Scala | String reverser with transforms |
 | `perl/regex-test` | Perl | Regex pattern tester |
+| `r/dup-find` | R | Duplicate line finder |
+| `zig/byte-count` | Zig | Byte/line counter |
+| `julia/case-convert` | Julia | Text case converter |
+| `nim/sort-lines` | Nim | Line sorter |
 
 ---
 

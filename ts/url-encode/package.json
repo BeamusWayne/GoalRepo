@@ -1,0 +1,9 @@
+{
+  "name": "url-encode",
+  "version": "1.0.0",
+  "description": "URL encode/decode CLI tool",
+  "main": "url-encode.ts",
+  "scripts": {
+    "start": "npx tsx url-encode.ts"
+  }
+}

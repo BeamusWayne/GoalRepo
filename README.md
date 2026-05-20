@@ -12,6 +12,10 @@ A multi-language developer toolbox. Small, useful CLI tools written in different
 | `swift/hex-color` | Swift | Color format converter |
 | `kotlin/qr-gen` | Kotlin | QR code generator |
 | `dart/pwd-gen` | Dart | Secure password generator |
+| `rust/hash-digest` | Rust | SHA-256/SHA-512 hash tool |
+| `ts/url-encode` | TypeScript | URL encode/decode utility |
+| `c/line-count` | C | Line/word/char counter |
+| `lua/json-key` | Lua | JSON key extractor |
 
 ---
 
